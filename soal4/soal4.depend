@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544515744 source:d:\praktikum\praktikum9\soal4\main.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+
